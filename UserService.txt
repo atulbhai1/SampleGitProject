@@ -3,3 +3,4 @@ I like to service users
     step 2: process data
 EXPERIMENT:
     AVATAR
+login and logout
