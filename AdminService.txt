@@ -1,7 +1,7 @@
 Add+remove users
 change roles
 manage database
-closing database connection
+closing oracle database connection
 
 change1
 change2 in harsh' database
